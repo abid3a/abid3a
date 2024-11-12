@@ -5,6 +5,7 @@ I'm an electrical engineering student at the University of Waterloo. Currently i
 ⚡ Fun fact: I can't swim 😅
 
 📫 How to reach me: 
+
 LinkedIn: www.linkedin.com/in/a3azad
 
 Email: a3azad@uwaterloo.ca
