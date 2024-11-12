@@ -1,7 +1,9 @@
-## Hello there, I'm Abid 👋
-I'm an electrical engineering student at the University of Waterloo. Currently interested in embedded systems, hardware, and web-dev. 
-I love learning about new things and trying out new experiences! 
+Hello there, I'm Abid 👋
+
+I'm an electrical engineering student at the University of Waterloo. Currently interested in embedded systems, hardware, and web-dev. I love learning about new things and trying out new experiences! 
+
 ⚡ Fun fact: I can't swim 😅
+
 📫 How to reach me: 
 LinkedIn: www.linkedin.com/in/a3azad
 Email: a3azad@uwaterloo.ca
